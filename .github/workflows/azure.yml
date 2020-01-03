@@ -44,5 +44,6 @@ jobs:
     - name: npm start
       run: |
         # web start
+        cd d:/home/site/wwwroot
         npm start
         
